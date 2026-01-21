@@ -10,9 +10,10 @@ A USB connected radio panel for flight simulators such as MSFS, X-Plane, Prepar 
 
 
 BOM
-4 Digit - 7 segment Display (x2): $1.32
-1 Digit - 7 segment Display (x2): $0.22
-Rotary Encoder (x1): $1.21
-Cherry Low profile MX Switches (x1): $2.75
-Arduino Nano with Cable (x1): $2.42
-Total: $7.92
+4 Digit - 7 segment Display (x2): ₹118
+1 Digit - 7 segment Display (x2): ₹20
+Rotary Encoder (x1): ₹371
+Cherry Low profile MX Switches (x1): ₹299
+Cherry MX switch keycap: Already Obtained
+Arduino Nano + Cable (x1): ₹198 + ₹75
+Total: ₹1081 or $11.80

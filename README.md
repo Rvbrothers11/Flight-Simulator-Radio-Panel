@@ -16,4 +16,5 @@ Rotary Encoder (x1): ₹371
 Cherry Low profile MX Switches (x1): ₹299
 Cherry MX switch keycap: Already Obtained
 Arduino Nano + Cable (x1): ₹198 + ₹75
-Total: ₹1081 or $11.80
+Total: ₹1081 or $11.80 + $7 (3D printing shipping)
+Total: $18.8

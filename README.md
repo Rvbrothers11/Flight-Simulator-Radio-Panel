@@ -48,8 +48,8 @@ A USB connected radio panel for flight simulators such as MSFS, X-Plane, Prepar 
     <tr>
       <td>4 Digit - 7 segment Display</td>
       <td>2</td>
-      <td>₹59</td>
-      <td>₹118</td>
+      <td>₹58</td>
+      <td>₹116</td>
       <td>-</td>
       <td><a href="https://robu.in/product/0-56-inch-red-4-digit-7-segment-led-display-cc-12pin/" target="_blank">Link</a></td>
     </tr>
@@ -64,8 +64,8 @@ A USB connected radio panel for flight simulators such as MSFS, X-Plane, Prepar 
     <tr>
       <td>Rotary Encoder</td>
       <td>1</td>
-      <td>₹371</td>
-      <td>₹371</td>
+      <td>₹50</td>
+      <td>₹50</td>
       <td>-</td>
       <td><a href="https://robu.in/product/m274-360-degree-rotary-encoder-module-brick-sensor/" target="_blank">Link</a></td>
     </tr>
@@ -96,7 +96,7 @@ A USB connected radio panel for flight simulators such as MSFS, X-Plane, Prepar 
     <tr class="highlight-total">
       <td colspan="3" style="text-align: right;"><strong>Estimated Total:</strong></td>
       <td><strong>₹782</strong></td>
-      <td><strong>~$8.53 + $7.00 = $15.53</strong></td>
+      <td><strong>~$5 + $7.00 = $12</strong></td>
       <td></td>
     </tr>
   </tbody>

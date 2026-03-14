@@ -1,9 +1,5 @@
 # Flight-Simulator-Radio-Panel
 
-A DESCRIPTION/EXPLANATION OF YOUR PROJECT
- A short description of what your project is
- A couple sentences on how to use your project!
- A couple sentences on why you made the project
 
 **Short Description:**
 The flight simulator radio panel is a product based on the radio panels that are integrated in real world aircrafts todday. The radio panel is controlled using an Arduino Nano which gets input from the cherry MX switches and rotary encoder and sends it to the online simulator (Microsoft Flight Simulator 2024) via USB.

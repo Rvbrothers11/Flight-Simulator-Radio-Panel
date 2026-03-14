@@ -1,4 +1,20 @@
 # Flight-Simulator-Radio-Panel
+
+A DESCRIPTION/EXPLANATION OF YOUR PROJECT
+ A short description of what your project is
+ A couple sentences on how to use your project!
+ A couple sentences on why you made the project
+
+**Short Description:**
+The flight simulator radio panel is a product based on the radio panels that are integrated in real world aircrafts todday. The radio panel is controlled using an Arduino Nano which gets input from the cherry MX switches and rotary encoder and sends it to the online simulator (Microsoft Flight Simulator 2024) via USB.
+
+**How to use:**
+Using the radio panel is very simple. Just connect the arduino nano to the laptop via USB which already has the code imported and run the simulator. The simulator will then detect the radio panel as a flight sim hardware and then you will be able to edit which button on the radio panel does what. The rotary encoder helps changing frequency in the radio panel which helps pilots connect to different air traffic controllers across the globe. The buttons help switch between the 2 radios as a method for selecting 1 as the main frequency and the other as a back up or transfer frequency. 
+
+**Why I made the project:**
+From the age of 10 I have been flying planes on simulators. From mobile phones to roblox to Xplane 11 and even motion simulators. Unfortunately, I do not have access to motion simulators on a daily basis which is why I want to enhance my in home flight experience. To do this I wish to make my own flight simulator hardware which brings out the engineer in me and gives me more motivation and satisfaction in the flying I do in the sim. 
+
+
 A USB connected radio panel for flight simulators such as MSFS, X-Plane, Prepar 3D
 <img width="1431" height="994" alt="image" src="https://github.com/user-attachments/assets/5a17e3d7-ba86-422c-b553-a3560ce51adc" />
 <img width="2000" height="1250" alt="image" src="https://github.com/user-attachments/assets/4adfde2b-1554-49a9-a97a-96bf1bc2683d" />

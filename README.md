@@ -10,6 +10,9 @@ Using the radio panel is very simple. Just connect the arduino nano to the lapto
 **Why I made the project:**
 From the age of 10 I have been flying planes on simulators. From mobile phones to roblox to Xplane 11 and even motion simulators. Unfortunately, I do not have access to motion simulators on a daily basis which is why I want to enhance my in home flight experience. To do this I wish to make my own flight simulator hardware which brings out the engineer in me and gives me more motivation and satisfaction in the flying I do in the sim. 
 
+**Link to the CAD model - Tinkercad**
+https://www.tinkercad.com/things/jHO9Tcbw54a-radio-panel-vidit/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d&sharecode=kzbdH0JX4qsXTBPEt5l88V-rusVkn1WxgUt9ZmibGhA
+
 
 A USB connected radio panel for flight simulators such as MSFS, X-Plane, Prepar 3D
 <img width="1431" height="994" alt="image" src="https://github.com/user-attachments/assets/5a17e3d7-ba86-422c-b553-a3560ce51adc" />
